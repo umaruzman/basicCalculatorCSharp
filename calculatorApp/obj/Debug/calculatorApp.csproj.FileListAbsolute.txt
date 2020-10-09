@@ -1,0 +1,10 @@
+C:\Users\Asus-123\source\repos\calculatorApp\calculatorApp\bin\Debug\calculatorApp.exe.config
+C:\Users\Asus-123\source\repos\calculatorApp\calculatorApp\bin\Debug\calculatorApp.exe
+C:\Users\Asus-123\source\repos\calculatorApp\calculatorApp\bin\Debug\calculatorApp.pdb
+C:\Users\Asus-123\source\repos\calculatorApp\calculatorApp\obj\Debug\calculatorApp.csprojAssemblyReference.cache
+C:\Users\Asus-123\source\repos\calculatorApp\calculatorApp\obj\Debug\calculatorApp.Properties.Resources.resources
+C:\Users\Asus-123\source\repos\calculatorApp\calculatorApp\obj\Debug\calculatorApp.csproj.GenerateResource.cache
+C:\Users\Asus-123\source\repos\calculatorApp\calculatorApp\obj\Debug\calculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus-123\source\repos\calculatorApp\calculatorApp\obj\Debug\calculatorApp.exe
+C:\Users\Asus-123\source\repos\calculatorApp\calculatorApp\obj\Debug\calculatorApp.pdb
+C:\Users\Asus-123\source\repos\calculatorApp\calculatorApp\obj\Debug\calculatorApp.frmMain.resources
